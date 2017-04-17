@@ -1,0 +1,46 @@
+#home h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+}
+
+.skyline{
+  background-image: url("../images/broadway.png");
+  color: white;
+}
+
+*{
+  font-family: Helvetica;
+}
+
+#home, #process, #work, #team, #contact{
+  text-align: center;
+}
+
+a{
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px
+  text-align: left;
+}
